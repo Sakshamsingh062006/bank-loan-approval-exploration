@@ -1,8 +1,10 @@
 # Bank Loan Approval Data Exploration
 
-**Project ID:** DA-024  |  **Group ID:** BTech_DA_06  |  **Program:** Data Analytics
-**Course:** B.Tech Computer Science & Engineering, Semester III, Section F
-**Mentor:** Puneet Arora
+- **Project ID:** DA-024
+- **Group ID:** BTech_DA_06
+- **Program:** Data Analytics
+- **Course:** B.Tech Computer Science & Engineering, Semester III, Section F
+- **Mentor:** Puneet Arora
 
 An exploratory data analysis (EDA) project in Python. It studies a small loan application dataset and shows how approval outcomes differ across credit history, education and property area.
 
